@@ -1,0 +1,1 @@
+<img src="{{ asset('images/logostei.png') }}" alt="Logo Aplikasi" {{ $attributes->merge(['class' => 'w-24 h-24 object-contain mx-auto']) }}>
